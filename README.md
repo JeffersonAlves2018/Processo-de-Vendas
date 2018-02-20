@@ -1,4 +1,5 @@
 # Processo-de-Vendas
-Este estudo teve como objetivo propor melhorias no tradicional e ineficiente processo de vendas de produtos, por exemplo uma loja de calçados, onde diversas oportunidades de vendas são perdidas devido à:
-- Informações insuficientes sobre o perfil do potencial cliente;
-- 
+Este estudo teve como objetivo propor melhorias no tradicional e ineficiente processo de vendas nas lojas de calçados, onde diversas oportunidades de incremento do ticket médio são perdidas devido à:
+- Informações insuficientes sobre o perfil do potencial cliente de forma a orientar as ações do vendedor;
+- Informações imprecisas sobre o estoque de produtos, resultando em morosidade e erros no atendimento;
+- Ineficiência no cruzamento de dados dos produtos para potencialização de venda de acessórios;
