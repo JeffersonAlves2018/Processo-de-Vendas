@@ -6,3 +6,5 @@ Este estudo teve como objetivo propor melhorias no tradicional e ineficiente pro
 - Ineficiência no cruzamento de dados dos produtos para potencialização de venda de acessórios;
 
 Inicialmente, foi dado um enfoque conceitual sobre o processo, não sendo consideradas algumas tecnologias já existentes na época (2012) e que poderiam otimizar este sistema e potencializar ainda mais os benefícios, tais como a tecnologia RFID dentre outras opções.
+
+O principal material sobre este projeto é a apresentação intitulada "Estudo do Processo" onde se aborda desde as motivações para a implantação até os benefícios bem como o retorno financeiro esperado.
